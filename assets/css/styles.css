@@ -44,6 +44,10 @@ h1 {
   text-transform: uppercase;
 }
 
+#titlename {
+  font-size: 50px;
+}
+
 span.big-h1 {
   font-size: 180px;
 }
@@ -1377,6 +1381,7 @@ p.copyright {
   /**** intro ****/
   .intro-1 h1 {
     font-size: 60px;
+
   }
 
   .intro-1 .big-h1 {
